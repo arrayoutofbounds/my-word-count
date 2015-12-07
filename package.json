@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "my-word-count:toggle"
   },
-  "repository": "https://github.com/atom/my-word-count",
+  "repository": "https://github.com/arrayoutofbounds/my-word-count",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
